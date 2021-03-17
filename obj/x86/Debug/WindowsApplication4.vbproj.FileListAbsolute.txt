@@ -1,0 +1,10 @@
+c:\users\dell\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+c:\users\dell\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+c:\users\dell\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+c:\users\dell\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form1.resources
+c:\users\dell\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+c:\users\dell\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+c:\users\dell\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+C:\Users\dell\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\Bunifu_UI_v1.52.dll
